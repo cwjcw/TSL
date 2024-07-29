@@ -13,7 +13,7 @@
      pip3 install GitPython
      ```
 
-   - 推荐chrome及chrome驱动，相关下载请见<a href="[下载内容  | ChromeDriver  | Chrome for Developers](https://developer.chrome.com/docs/chromedriver/downloads?hl=zh-cn)">下载链接</a>
+   - 推荐chrome及chrome驱动，相关下载请见<a href="https://developer.chrome.com/docs/chromedriver/downloads?hl=zh-cn">下载链接</a>
 
 2. 需要在根目录创建config.py
 
